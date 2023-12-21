@@ -139,6 +139,6 @@ tulis('A',(88,95))
 time.sleep(0.1)
 tulis('Y',(100,95))
 time.sleep(0.1)
-pesan('''To Me :)
-I Hope I am Happy,''',(-68,40))
+pesan('''Deswita
+My best wishes for you.,''',(-68,40))
 time.sleep(5)
